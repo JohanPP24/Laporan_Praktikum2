@@ -31,4 +31,4 @@ bernama Anton dan Riko dan panggil
 method setter dan getter.
 <img width="328" alt="gambar5" src="https://user-images.githubusercontent.com/92928548/198753307-026285cc-a637-467e-9af1-48e38b4797f8.png">
 
-======================== TERIMAKASIH ===============================================================
+======================== TERIMAKASIH ===================================
